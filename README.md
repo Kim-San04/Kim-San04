@@ -19,7 +19,7 @@
 - 📍 Bordeaux | Mobilité France entière
 - 🎓 Mastère Cybersécurité, Réseaux & Cloud — Efrei Bordeaux (2025-2027)
 - 🔄 Alternance : 1 semaine école / 2 semaines entreprise
-- 📧 cheick.sawadogo@efrei.net
+- 📧 sawadogohadime@gmail.com
 
 ---
 
