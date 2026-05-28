@@ -12,7 +12,7 @@
 
 ## 👋 À propos
 
-Étudiant en **Mastère Cybersécurité (Bac+5)** à l'Efrei Bordeaux, avec une expertise hybride **Red & Blue Team** — le profil **Purple Team**.
+Étudiant en **Mastère Cybersécurité (Bac+5)** à l'Efrei Bordeaux, avec une expertise hybride **Red & Blue Team** , le profil **Purple Team**.
 
 > Mon approche : comprendre l'attaque pour mieux défendre. Je m'intéresse particulièrement à l'intégration de l'IA dans les processus de sécurité.
 
