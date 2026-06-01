@@ -4,7 +4,7 @@
 
 ### 🟣 Mastère Cybersécurité — Efrei Bordeaux | Sécurité Offensive & Défensive
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00f2ff?style=for-the-badge&logo=firefox&logoColor=black)](https://kim-san04.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hakim-sawadogo) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cheick.sawadogo@efrei.net)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00f2ff?style=for-the-badge&logo=firefox&logoColor=black)](https://kim-san04.github.io/portfolio-cyber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hakim-sawadogo) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cheick.sawadogo@efrei.net)
 
 </div>
 
@@ -51,6 +51,7 @@
 | [🔍 Audit SI PME](https://github.com/Kim-San04/Audit-SI-Risques-PME) | EBIOS · Cartographie SI · Remédiation | Académique |
 | [☁️ Cloud IaC Azure](https://github.com/Kim-San04/TP_Cloud_Computing_M1_CSC) | Terraform · Azure · NSG | Académique |
 | [📊 Monitoring Réseau](https://github.com/Kim-San04/Etude-Mise-en-Oeuvre-Monitoring-Reseau) | Zabbix · Grafana · Supervision | Académique |
+| [🔍 CTI Dashboard](https://github.com/Kim-San04/threat-intel-dashboard) | VirusTotal + AbuseIPDB + Shodan · Score de risque · Export PDF/JSON · Docker · [Live Demo](https://threat-intel-dashboard-ot64.onrender.com) | Personnel |
 | [🤖 AI Security Automation](https://github.com/Kim-San04/AI-Security-Automation) | Orchestration IA · SOC · Python | Personnel |
 | [🏠 HomeLab](https://github.com/Kim-San04/HomeLab-Simulation) | Lab virtuel · TryHackMe · CTF | Personnel |
 
